@@ -5,9 +5,9 @@ Updating Horison webpage so that it follows accessibility standards
 
 This marketing webpage is designed to target businesses that would like to increase and control their online visibility with the following:
 
- -Search Engine Optimization
- -Reputtion Management
- -Social Media Marketing
+ * Search Engine Optimization
+ * Reputtion Management
+ * Social Media Marketing
 
 
  ## Main Updates and fixes made
