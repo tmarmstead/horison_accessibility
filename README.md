@@ -14,11 +14,11 @@ This marketing webpage is designed to target businesses that would like to incre
 
 The goals for this project are to make several updates and improvements were made including the following:
 
- *[x] Add large prominent image 
- *[x] Reorganize CSS into a more readable and condensed version
- *[x] Fixing a broken link and including image alts
- *[x] Improve HTML by using semantic elements
- *[x] Add comments for clear descriptions of HTML/CSS
+ - [x] Add large prominent image 
+ - [x] Reorganize CSS into a more readable and condensed version
+ - [x] Fixing a broken link and including image alts
+ - [x] Improve HTML by using semantic elements
+ - [x] Add comments for clear descriptions of HTML/CSS
 
 
  ## URL
